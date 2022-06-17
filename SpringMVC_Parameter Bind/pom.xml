@@ -31,7 +31,7 @@
     <!--Spring MVC 中的 JSON 和 JavaBean 的转换需要借助于 fastjson-->
       <groupId>com.alibaba</groupId>
       <artifactId>fastjson</artifactId>
-      <version>1.2.32</version>
+      <version>1.2.83</version>
     </dependency>
 
     <dependency>
